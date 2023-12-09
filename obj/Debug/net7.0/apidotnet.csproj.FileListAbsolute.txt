@@ -1,0 +1,234 @@
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\appsettings.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\apidotnet.exe
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\apidotnet.deps.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\apidotnet.runtimeconfig.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\apidotnet.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\apidotnet.pdb
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Humanizer.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.AssemblyReference.cache
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfoInputs.cache
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfo.cs
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CoreCompileInputs.cache
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.apidotnet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.apidotnet.props
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apidotnet.props
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apidotnet.props
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\scopedcss\bundle\apidotnet.styles.css
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CopyComplete
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\refint\apidotnet.dll
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.pdb
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\apidotnet.genruntimeconfig.cache
+C:\Users\gussi\OneDrive\Área de Trabalho\API\apidotnet\obj\Debug\net7.0\ref\apidotnet.dll
+D:\API\apidotnet\bin\Debug\net7.0\appsettings.Development.json
+D:\API\apidotnet\bin\Debug\net7.0\appsettings.json
+D:\API\apidotnet\bin\Debug\net7.0\apidotnet.exe
+D:\API\apidotnet\bin\Debug\net7.0\apidotnet.deps.json
+D:\API\apidotnet\bin\Debug\net7.0\apidotnet.runtimeconfig.json
+D:\API\apidotnet\bin\Debug\net7.0\apidotnet.dll
+D:\API\apidotnet\bin\Debug\net7.0\apidotnet.pdb
+D:\API\apidotnet\bin\Debug\net7.0\AutoMapper.dll
+D:\API\apidotnet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\API\apidotnet\bin\Debug\net7.0\Azure.Core.dll
+D:\API\apidotnet\bin\Debug\net7.0\Azure.Identity.dll
+D:\API\apidotnet\bin\Debug\net7.0\Humanizer.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\API\apidotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\API\apidotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.CodeDom.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Memory.Data.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\API\apidotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.AssemblyReference.cache
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfoInputs.cache
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfo.cs
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CoreCompileInputs.cache
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cs
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cache
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.apidotnet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.apidotnet.props
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apidotnet.props
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apidotnet.props
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets.build.json
+D:\API\apidotnet\obj\Debug\net7.0\staticwebassets.development.json
+D:\API\apidotnet\obj\Debug\net7.0\scopedcss\bundle\apidotnet.styles.css
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CopyComplete
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.dll
+D:\API\apidotnet\obj\Debug\net7.0\refint\apidotnet.dll
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.pdb
+D:\API\apidotnet\obj\Debug\net7.0\apidotnet.genruntimeconfig.cache
+D:\API\apidotnet\obj\Debug\net7.0\ref\apidotnet.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\appsettings.Development.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\appsettings.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\apidotnet.exe
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\apidotnet.deps.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\apidotnet.runtimeconfig.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\apidotnet.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\apidotnet.pdb
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\AutoMapper.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Azure.Core.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Azure.Identity.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Humanizer.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.CodeDom.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.AssemblyReference.cache
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfoInputs.cache
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.AssemblyInfo.cs
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CoreCompileInputs.cache
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cs
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.MvcApplicationPartsAssemblyInfo.cache
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.apidotnet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.apidotnet.props
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apidotnet.props
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apidotnet.props
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets.build.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\staticwebassets.development.json
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\scopedcss\bundle\apidotnet.styles.css
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.csproj.CopyComplete
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\refint\apidotnet.dll
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.pdb
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\apidotnet.genruntimeconfig.cache
+D:\Fatec\Tecnicas Avancadas de Programacao\API\apidotnet\obj\Debug\net7.0\ref\apidotnet.dll
